@@ -1,0 +1,33 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Notes in Object Oriented Programming",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "Notes in object oriented programming with various langauges including\n\nsmalltalk\njava / bluej\nc++\n…",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "smalltalk/intro.html",
+    "href": "smalltalk/intro.html",
+    "title": "2  Introduction to Smalltalk",
+    "section": "",
+    "text": "Smalltalk is an object oriented language.",
+    "crumbs": [
+      "Smalltalk",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to Smalltalk</span>"
+    ]
+  }
+]
