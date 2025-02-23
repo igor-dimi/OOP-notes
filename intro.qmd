@@ -1,0 +1,8 @@
+# Introduction
+
+Notes in object oriented programming with various langauges including 
+
+* smalltalk
+* java / bluej 
+* c++
+* ...

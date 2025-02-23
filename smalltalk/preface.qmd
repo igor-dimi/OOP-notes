@@ -1,0 +1,3 @@
+# Smalltalk
+
+Notes on smalltalk programming

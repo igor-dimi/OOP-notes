@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "Notes in Object Oriented Programming"
+  author: "Igor Dimitrov"
+  date: "2/23/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: "Smalltalk"
+      chapters: 
+        - smalltalk/intro.qmd
+      
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
