@@ -1,0 +1,58 @@
+---
+title: Reading List
+---
+
+## General OO Design
+
+* Object Oriented Analysis, Design, Programming. Peter Coad
+* The Object-Oriented Thought Process. Weisfeld
+* Guide to the Unified Process Featuring UML, Java, and Design Patterns
+* An Introduction to Object Oriented Porgramming. Timothy Budd
+* How to Design Classes. Felleisen et al
+* How to Write Good Programs. Perdita
+* The Essence of Software - Why Concepts Matter for Great Design. Daniel Jackson
+
+## Design Patterns
+
+* Object-Oriented Design and Patterns. Cay Horstmann
+
+## Java
+
+### Bluej
+
+* Objects First with Java - A Practical Introduction Using Bluej. David Barnes
+* OOP - Learn Object Oriented Thinking & Programming. Pecinovsky
+
+### General
+
+* Start Concurrent - A Gentle Introduction to Concurrent Programming with Java. Wittman et. al.
+* Modern Java in Action (2018). Urma, Fusco, Mycroft
+* The Art of Java (2003). Schildt, Holmes
+
+### OO Programming & Design
+
+* Java and Object Orientation - An Introduction (2002). John Hunt
+* Introduction to Software Design with Java (2022). Robillard. 
+* Software Design - From Programming to Architecture. Braude
+* Java Design - Building Better Apps and Applets (1997). Coad, Mayfield
+* Software Design Using Java 2. Kevin Lano
+* Object Oriented Design with UML and Java. Savage
+
+### Problem Solving & Data Structures
+
+* Fundamentals of OOP and Data Structures (2000). Wiener
+* Java Collections - An Introduction to Abstract Data Types, Data Structures and Algorithms (2001). Watt, Brown
+
+### Game & Graphics
+
+* Learning Java with Games. Chong-Wei Xu
+* Computer Graphics for Java Programmers. Ammeraal
+* Introduction to Computer Graphics Using java 2D and 3D. Klawonn
+
+## Smalltalk
+
+* The Art and Science of Smalltalk. Lewis
+* Smalltalk and Object Orientation. Hunt
+* Smalltalk, Objects, and Design. Liu
+* The Design Patterns Smalltalk Companion. Alpert, Brown, Woolf
+
