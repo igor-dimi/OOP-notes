@@ -20,14 +20,64 @@
     ]
   },
   {
+    "objectID": "reading.html",
+    "href": "reading.html",
+    "title": "2  Reading List",
+    "section": "",
+    "text": "General OO Design",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#general-oo-design",
+    "href": "reading.html#general-oo-design",
+    "title": "2  Reading List",
+    "section": "",
+    "text": "Object Oriented Analysis, Design, Programming. Peter Coad\nThe Object-Oriented Thought Process. Weisfeld\nGuide to the Unified Process Featuring UML, Java, and Design Patterns\nAn Introduction to Object Oriented Porgramming. Timothy Budd\nHow to Design Classes. Felleisen et al\nHow to Write Good Programs. Perdita\nThe Essence of Software - Why Concepts Matter for Great Design. Daniel Jackson",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#design-patterns",
+    "href": "reading.html#design-patterns",
+    "title": "2  Reading List",
+    "section": "Design Patterns",
+    "text": "Design Patterns\n\nObject-Oriented Design and Patterns. Cay Horstmann",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#java",
+    "href": "reading.html#java",
+    "title": "2  Reading List",
+    "section": "Java",
+    "text": "Java\n\nBluej\n\nObjects First with Java - A Practical Introduction Using Bluej. David Barnes\nOOP - Learn Object Oriented Thinking & Programming. Pecinovsky\n\n\n\nGeneral\n\nStart Concurrent - A Gentle Introduction to Concurrent Programming with Java. Wittman et. al.\nModern Java in Action (2018). Urma, Fusco, Mycroft\nThe Art of Java (2003). Schildt, Holmes\n\n\n\nOO Programming & Design\n\nJava and Object Orientation - An Introduction (2002). John Hunt\nIntroduction to Software Design with Java (2022). Robillard.\nSoftware Design - From Programming to Architecture. Braude\nJava Design - Building Better Apps and Applets (1997). Coad, Mayfield\nSoftware Design Using Java 2. Kevin Lano\nObject Oriented Design with UML and Java. Savage\n\n\n\nProblem Solving & Data Structures\n\nFundamentals of OOP and Data Structures (2000). Wiener\nJava Collections - An Introduction to Abstract Data Types, Data Structures and Algorithms (2001). Watt, Brown\n\n\n\nGame & Graphics\n\nLearning Java with Games. Chong-Wei Xu\nComputer Graphics for Java Programmers. Ammeraal\nIntroduction to Computer Graphics Using java 2D and 3D. Klawonn",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#smalltalk",
+    "href": "reading.html#smalltalk",
+    "title": "2  Reading List",
+    "section": "Smalltalk",
+    "text": "Smalltalk\n\nThe Art and Science of Smalltalk. Lewis\nSmalltalk and Object Orientation. Hunt\nSmalltalk, Objects, and Design. Liu\nThe Design Patterns Smalltalk Companion. Alpert, Brown, Woolf",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
     "objectID": "smalltalk/intro.html",
     "href": "smalltalk/intro.html",
-    "title": "2  Introduction to Smalltalk",
+    "title": "3  Introduction to Smalltalk",
     "section": "",
     "text": "Smalltalk is an object oriented language.",
     "crumbs": [
       "Smalltalk",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction to Smalltalk</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction to Smalltalk</span>"
     ]
   }
 ]
