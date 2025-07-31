@@ -15,6 +15,7 @@ title: Reading List
 ## Design Patterns
 
 * Object-Oriented Design and Patterns. Cay Horstmann
+* Python in Practice - Create Better Programs Using Concurrency, Libraries, and Patterns
 
 ## Java
 
