@@ -26,6 +26,11 @@ title: Reading List
 
 ### General
 
+* Introduction to Programming Using Java - version 9, JavaFX Edition. David J Eck
+* Big Java - Early Objects (7th ed). Cay Horstmann
+* Introduction to Java - Programming and Data Structures. Daniel Liang
+* Just Java 2 (6th ed). Peter van der Linden
+* Java the UML Way - Integrating Object-Oriented Design and Programming. Else Lervik & Vegard B Havdal
 * Start Concurrent - A Gentle Introduction to Concurrent Programming with Java. Wittman et. al.
 * Modern Java in Action (2018). Urma, Fusco, Mycroft
 * The Art of Java (2003). Schildt, Holmes
@@ -43,6 +48,7 @@ title: Reading List
 
 * Fundamentals of OOP and Data Structures (2000). Wiener
 * Java Collections - An Introduction to Abstract Data Types, Data Structures and Algorithms (2001). Watt, Brown
+* Data Structures and Software Developemtn in an Object-Oriented Domain - Java Edition. Jean-Paul Tremblay, Grant A Cheston
 
 ### Game & Graphics
 
@@ -57,3 +63,7 @@ title: Reading List
 * Smalltalk, Objects, and Design. Liu
 * The Design Patterns Smalltalk Companion. Alpert, Brown, Woolf
 
+## GUI Programming
+
+* An Introductin to C & Gui Programming. Simon Long
+* Python GUI Programming with Tkinter - Design and Build functinoal and user-friendly GUI applications. Alan D Moore
